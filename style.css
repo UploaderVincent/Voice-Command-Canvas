@@ -1,0 +1,16 @@
+body
+{
+	text-align: center;
+	background-image: url("shapes.gif");
+	color: white;
+}
+span
+{
+	font-size: 22px;
+	color: plum;
+}
+canvas
+{
+	background: salmon;
+	border-radius: 20px;
+}
